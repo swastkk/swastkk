@@ -19,9 +19,11 @@
 <p align="left">
 <a href="https://twitter.com/swastik_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swastik_sharmaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swastkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastkk" height="30" width="40" /></a>
-<a href="https://instagram.com/swastik.sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastik.sharmaa" height="30" width="40" /></a>
-</p>
-<a href="mailto:swastkk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://instagram.com/swastik.sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastik.sharmaa" height="30" width="40" /></a
+ </p>
+ 
+<a href="mailto:swastkk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="position: absolute;" /></a>
+
+
 
 
