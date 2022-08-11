@@ -1,9 +1,9 @@
 <h1 align="center">Heyy! It's Swastik this side👋</h1>
-<h3 align="center">A Freshman at NIT Hamirpur</h3>
+<h3 align="center">A Sophomore at NIT Hamirpur</h3>
 
 - I’m currently Pursuing **CIVIL ENGINEERING from NIT Hamirpur.**
 
-- 🌱 I’m currently learning **MongoDB & React**
+- 🌱 I’m currently learning **Python-Django**
 
 <h3>GitHub Analytics:</h3>
 <br>
