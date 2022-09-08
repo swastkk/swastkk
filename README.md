@@ -1,7 +1,7 @@
 <h1 align="center">Heyy! It's Swastik this side👋</h1>
 <h3 align="center">A Sophomore at NIT Hamirpur</h3>
 
-- I’m currently Pursuing **CIVIL ENGINEERING from NIT Hamirpur.**
+- I’m currently Pursuing **ELECTRICAL ENGINEERING from NIT Hamirpur.**
 
 - 🌱 I’m currently learning **Python-Django**
 
