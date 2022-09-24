@@ -3,7 +3,7 @@
 
 - I’m currently Pursuing **ELECTRICAL ENGINEERING from NIT Hamirpur.**
 
-- 🌱 Back to  Work!
+- 🌱 Back to  Work! @24Sept, 2022
 
 <h3>GitHub Analytics:</h3>
 <br>
