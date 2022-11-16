@@ -3,7 +3,8 @@
 
 - I’m currently Pursuing **ELECTRICAL ENGINEERING from NIT Hamirpur.**
 - Open-Source Enthusiast!
-- Started Learning Python+Django
+- Started Learning Python+Django.
+- GSoC'23 niklwado 🥲
 - Need nothing in life except - Consistency!
 
 <h3>GitHub Analytics:</h3>
