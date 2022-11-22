@@ -6,7 +6,7 @@
 - Started Learning Python+Django.
 - GSoC'23 niklwado 🥲
 - Need nothing in life except - Consistency!
-- <a href="swastiksharma.carrd.co">swastiksharma.carrd.co</a>
+- <a href="swastiksharma.carrd.co" target="_blank">swastiksharma.carrd.co</a>
 <h3>GitHub Analytics:</h3>
 <br>
  <p align="center">
