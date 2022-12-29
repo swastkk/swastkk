@@ -1,36 +1,27 @@
-<h1 align="center">Heyy! It's Swastik this side👋</h1>
-<h3 align="center">A Sophomore at NIT Hamirpur</h3>
+<h2><img src="https://visitcount.itsvg.in/api?id=swastkk&icon=2&color=1)"> Hey, This is Swastik Sharma</h2>
 
-- I’m currently Pursuing **ELECTRICAL ENGINEERING from NIT Hamirpur.**
-- Open-Source Enthusiast!
-- Started Learning Python+Django.
-- GSoC'23 niklwado 🥲
-- Need nothing in life except - Consistency!
-- <a href="swastiksharma.carrd.co" target="_blank">swastiksharma.carrd.co</a>
-<h3>GitHub Analytics:</h3>
-<br>
- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=swastkk&show_icons=true&theme=tokyonight" alt="swastkk" style="width:40%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastkk&layout=compact&theme=tokyonight" alt="swastkk" style="width:40%;"/>
-  </p>
-  <h3>Badges & Rewards:</h3>
-HacktoberFest 2022
+
+## 💫 About Me:
+</> Linux Enthusiast<br>>  Electrical Engineer at NIT Hamirpur<br>> Executive Member @ISTE-NITH<br>> Learning New Web Technologies at Top pace.<br>> Open Source is  ❤️<br>⚡  Fun fact- I changed my Branch From Civil to Electrical.
+
+
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Analytics:
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=swastkk&show_icons=true&theme=radical" alt="swastkk" style="width:40%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastkk&layout=compact&theme=radical" alt="swastkk" style="width:40%;"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastkk&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+</p>
+##  
 
 [![@swastiksharma's Holopin board](https://holopin.me/swastiksharma)](https://holopin.io/@swastiksharma)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastkk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="swastkk" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/swastik_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swastik_sharmaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swastkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastkk" height="30" width="40" /></a>
-<a href="https://instagram.com/swastik.sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastik.sharmaa" height="30" width="40" /></a
- </p>
- 
-<a href="mailto:swastkk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="position: absolute;" /></a>
-
-
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swastik.sharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastkk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swastik_sharmaa) <a href="mailto:swastkk@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="position: absolute;" /></a>
