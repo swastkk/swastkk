@@ -1,8 +1,9 @@
-<h2><img src="https://visitcount.itsvg.in/api?id=swastkk&icon=2&color=1)"> Hey, This is Swastik Sharma</h2>
+# Hey, This is Swastik Sharma!👋
 
+![](https://komarev.com/ghpvc/?username=swastkk&style=for-the-badge) 
 
 ## 💫 About Me:
-</> Linux Enthusiast<br>>  Electrical Engineer at NIT Hamirpur<br>> Executive Member @ISTE-NITH<br>> Learning New Web Technologies at Top pace.<br>> Open Source is  ❤️<br>⚡  Fun fact- I changed my Branch From Civil to Electrical.
+</> Linux Enthusiast<br>>  Electrical Engineer at NIT Hamirpur<br>> Executive Member @ISTE-NITH<br>> Learning New Web Technologies at Top pace.<br>> Open Source is  ❤️<br>>  Fun fact- I changed my Branch From Civil to Electrical ⚡
 
 
 
@@ -18,10 +19,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastkk&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 </p>
-##  
+
+## 🏆 Badges & Rewards:
 
 [![@swastiksharma's Holopin board](https://holopin.me/swastiksharma)](https://holopin.io/@swastiksharma)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swastik.sharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastkk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swastik_sharmaa) <a href="mailto:swastkk@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="position: absolute;" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swastik.sharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastkk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/swastik_sharmaa) <a href="mailto:swastkk@gmail.com"> 
+
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="position: absolute;" /></a>
