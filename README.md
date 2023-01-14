@@ -1,4 +1,6 @@
-# Hey, This is Swastik Sharma!👋
+# Swastik Sharma!👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Swastik+Sharma;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=swastkk&style=for-the-badge) 
 
