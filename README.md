@@ -37,7 +37,7 @@
 
 ## 🏆 Badges & Rewards:
 
-[![@swastiksharma's Holopin board](https://holopin.me/swastiksharma)](https://holopin.io/@swastiksharma)
+<kbd>![@swastiksharma's Holopin board](https://holopin.me/swastiksharma)</kbd>
 
 
 ## 🌐 Socials:
