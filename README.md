@@ -1,4 +1,4 @@
-# Swastik Sharma!👋
+![screenshot](Screenshot_2023-01-15_15-43-43.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Swastik+Sharma;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
