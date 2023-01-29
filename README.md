@@ -38,6 +38,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swastkk&theme=radical" style="width: 25%;" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swastkk&theme=radical&utcOffset=8"  style="width: 25%;" />
 </p>
 
+## Some writings 
+
+https://medium.com/coderbyte/web-scraping-with-python-48ae39656bbb
+
 ## 🏆 Badges & Rewards:
 
 <kbd>![@swastiksharma's Holopin board](https://holopin.me/swastiksharma)</kbd>
