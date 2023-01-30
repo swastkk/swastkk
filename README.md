@@ -40,7 +40,8 @@
 
 ## Some writings 
 
-https://medium.com/coderbyte/web-scraping-with-python-48ae39656bbb
+<a href="https://medium.com/@swastik.sharma/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swastik.sharma/0" alt="Recent Article 0"> </a>
+
 
 ## 🏆 Badges & Rewards:
 
