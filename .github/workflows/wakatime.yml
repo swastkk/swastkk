@@ -1,5 +1,4 @@
 name: Build Graph
-# Visit https://github.com/avinal/Profile-Readme-WakaTime for more description about this GitHub Action.
 
 on:
   schedule:
@@ -18,6 +17,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
+          BRANCH: "master"
           COMMIT_MSG: "new stats received :dog:"
           STATS_RANGE: last_30_days
