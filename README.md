@@ -1,4 +1,4 @@
-![screenshot](githubContriStyleName.jpg)
+![screenshot](images/githubContriStyleName.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Swastik+Sharma;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
