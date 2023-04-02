@@ -27,7 +27,10 @@ Fun Fact- I changed my branch from Civil to Electrical ⚡
 
 ## WakaTime Stats:
 
-<img src="https://github.com/swastkk/swastkk/blob/main/images/stat.svg" alt="swastik wakaTime Activity"/>
+<img
+  src="https://github.com/swastkk/swastkk/blob/master/images/stat.svg"
+  alt="Swastik WakaTime Activity"
+/>
 
 ## 📊 GitHub Analytics:
 
