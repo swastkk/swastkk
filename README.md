@@ -11,7 +11,7 @@
 
 
 
-## WakaTime Stats
+##  📈 Statistics
 
 <img
   src="https://github.com/swastkk/swastkk/blob/master/images/stat.svg"
