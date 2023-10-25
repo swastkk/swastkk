@@ -1,4 +1,4 @@
-# Hello, I am <a href="https://swastkk.github.io">Swastik Sharma</a><img src="images/butterfly.gif" width=30%>
+# Hello, I am <a href="https://swastkk.github.io" target="_blank" >Swastik Sharma</a><img src="images/butterfly.gif" width=30%>
 
 | <img src="https://github.com/swastkk/swastkk/blob/master/images/stat.svg" alt="Swastik Stats"/> |
 |---|
