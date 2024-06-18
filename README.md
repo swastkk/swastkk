@@ -1,5 +1,6 @@
-# Hello, I am <a href="https://swastiksharma.in" target="_blank" >Swastik Sharma</a><img src="images/butterfly.gif" width=30%>
+# Hello! 👋 <img src="https://profile-counter.glitch.me/swastkk/count.svg" alt="visitor count"/><img src="images/butterfly.gif" width=30%>
 
+Hi! I am <a href="https://swastiksharma.in">Swastik Sharma</a>! a Software Engineer with expertise in Backend Development, currently pursuing a Bachelor's degree in Electrical Engineering
 | <img src="https://github.com/swastkk/swastkk/blob/master/images/stat.svg" alt="Swastik Stats"/> |
 | ----------------------------------------------------------------------------------------------- |
 
