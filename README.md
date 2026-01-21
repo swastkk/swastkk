@@ -1,4 +1,4 @@
-# Hello! 👋 <img src="https://profile-counter.glitch.me/swastkk/count.svg" alt="visitor count"/>
+# Hello! 👋
 
 Hi! I am <a href="https://swastiksharma.in">Swastik Sharma!</a>, a Software Engineer with expertise in Backend Development, currently pursuing a Bachelor's degree in Electrical Engineering.
 | <img src="https://github.com/swastkk/swastkk/blob/master/images/stat.svg" alt="Swastik Stats"/> |
